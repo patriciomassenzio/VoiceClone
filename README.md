@@ -1,6 +1,4 @@
-![Talk with ChatGPT](/images/voice.gif)
-# ChatGPT-Voice
-Gives ChatGPT a Voice. Talk with ChatGPT as if it were a real person with your own voice. Integrates synthetic voices from [Resemble AI](https://resemble.ai).
+
 
 ## Prerequisites
 - Unofficial ChatGPT API (https://github.com/ZohaibAhmed/chatgpt-api)
